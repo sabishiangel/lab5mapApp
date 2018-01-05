@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Order UP</string>
+    <string name="start">Enter</string>
+    <string name="cont">Continue</string>
+    <string name="back">Back</string>
+    <string name="addr">Address: </string>
+
+    <!--Chinese Food-->
+    <string name="chiR1">Congee Wong</string>
+    <string name="chiR2">Grand Lake</string>
+
+    <!--Japanese Food-->
+    <string name="jpnR1">Spring Sushi</string>
+    <string name="jpnR2">Santouka Ramen</string>
+
+    <!--Indian Food-->
+    <string name="indR1">Bombay Buffet</string>
+    <string name="indR2">Golden Spoon</string>
+    <string name="select_a_restaurant_from_the_menu_above_and_click_continue">Select a Restaurant from the Menu above and click continue.</string>
+
+</resources>
